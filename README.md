@@ -1,4 +1,4 @@
-# Predictive Analysis and Modeling with Machine Learning
+# Predictive Analysis and Modeling with Machine Learning 📈
 
 This project implements a complete workflow for data analysis, preprocessing, and predictive modeling using different Machine Learning and Deep Learning techniques in Python.
 
@@ -36,10 +36,10 @@ Cali, Colombia
 [LinkedIn](https://www.linkedin.com/in/joshua-arango-295589326/)
 
 
+---
 
 
-
-# Análisis y Modelado Predictivo con Machine Learning
+# Análisis y Modelado Predictivo con Machine Learning 📈
 
 Este proyecto implementa un flujo completo de análisis de datos, preprocesamiento y modelado predictivo utilizando diferentes técnicas de Machine Learning y Deep Learning en Python.
 
